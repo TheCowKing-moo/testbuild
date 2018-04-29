@@ -1,0 +1,66 @@
+[
+	"These ores spawn in huge veins and are biome dependant.They can be somewhat rare and difficult to find. Most veins typically contain a neighbor ore which can spawn in small quantities in the parent vein.",
+	"",
+		{"h1": "Overworld Ores"},
+	{
+		"head": [
+			{"text": "Vein Ore", "type": "text"},
+			{"text": "Y Levels", "type": "number", "align": "right"},
+			{"text": "Biome", "type": "text"},
+			{"text": "Neighbor Ores", "type": "text"},
+			{"text": "Vein Type", "type": "text"}
+		],
+		"table": [
+			["Aluminium", "44-62", "Any", "Iron/Tin", "Fractal"],
+			["Amber", "7-40", "Sandy/Mesa", "Cinnabar", "Fractal"],
+			["Apatite", "60-256", "Any", "None", "Uniform"],
+			["Black Quartz", "30-60", "Snowy", "Dark Gem", "Fractal"],
+			["Boron", "0-21", "Ocean", "Uranium", "Fractal"],
+			["Certus Quartz", "36-54", "Charged Certus", "Uniform"],
+			["Coal", "0-128", "Mountain/Hill", "Diamond", "Fractal"],
+			["Copper", "40-75", "Jungle/Swamp", "Gold", "Fractal"],
+			["Diamond", "1-16", "Mountain/Hill", "Coal", "Geode"],
+			["Dilithium", "4-26", "Snowy", "Coal", "Fractal"],
+			["Emerald", "4-28", "Mountain/Hill", "None", "Uniform"],
+			["Galena", "4-45", "Jungle/Swamp", "Rutile/Redstone", "Fractal"],
+			["Gold", "9-21", "Mountain/Hill", "Copper", "Fractal"],
+			["Iridium", "4-26", "Forest/Plains", "Uranium/Gold", "Fractal"],
+			["Iron", "33-57", "Forest/Plains", "Nickel", "Fractal"],
+			["Lapis", "10-21", "Sandy/Mesa", "None", "Gaussian"],
+			["Lead", "5-35", "Jungle/Swamp", "Silver", "Uniform"],
+			["Lithium", "0-75", "Ocean", "Magnesium", "Fractal"],
+			["Nickel", "30-47", "Snowy", "Iron", "Fractal"],
+			["Osmium", "2-24", "Snowy", "None", "Uniform"],
+			["Platinum", "4-20", "Snowy", "Obsidian", "Fractal"],
+			["Redstone", "7-35", "Sandy/Mesa", "Ruby", "Fractal"],
+			["Resonating", "10-64", "Forest/Plains", "Redstone", "Fractal"],
+			["Ruby", "3-32", "Sandy/Mesa", "Sapphire", "Uniform"],
+			["Sapphire", "3-32", "Sandy/Mesa", "Ruby", "Uniform"],
+			["Silent Gems", "15-75", "Sandy/Mesa", "So many gems, kill me now", "Fractal"],
+			["Silver", "5-35", "Sandy/Mesa", "Lead", "Uniform"],
+			["Tin", "30-55", "Jungle/Swamp", "Iron/Nickel", "Uniform"],
+			["Thorium", "0-42", "Jungle/Swamp", "Uranium", "Fractal"],
+			["Uranium", "1-21", "Forest/Plains", "Iridium/Gold", "Fractal"]
+		]
+	},
+	"",
+		{"h1": "Nether Ores"},
+			{
+		"head": [
+			{"text": "Vein Ore", "type": "text"},
+			{"text": "Y Levels", "type": "number", "align": "right"},
+			{"text": "Biome", "type": "text"},
+			{"text": "Neighbor Ores", "type": "text"},
+			{"text": "Vein Type", "type": "text"}
+		],
+		"table": [
+			["Aluminium", "0", "Hell", "Iron/Tin", "Fractal"],
+			["Apatite", "0", "Hell", "None", "Uniform"],
+			["Black Quartz", "0", "Dark Gem", "Fractal"],
+			["Boron", "0", "Hell", "Uranium", "Fractal"],
+			["Uranium", "0", "Hell", "Iridium/Gold", "Fractal"]
+		]
+	},
+	
+	"",
+]

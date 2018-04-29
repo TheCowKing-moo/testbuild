@@ -1,0 +1,19 @@
+{
+	"title": "Enigmatica 2 modified",
+	"author": [
+		"NillerMedDild"
+	],
+	"icon": "item:immersiveengineering:drillhead",
+	"pages": [
+		{
+			"id": "ore_generation",
+			"title": "Ore Generation",
+			"icon": "item:minecraft:iron_ore"
+		},
+		{
+			"id": "tips",
+			"title": "Tips",
+			"icon": "item:minecraft:bookshelf"
+		}
+	]
+}
