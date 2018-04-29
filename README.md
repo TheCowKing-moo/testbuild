@@ -1,1 +1,1 @@
-# testbuild
+# Potential settings for E20
