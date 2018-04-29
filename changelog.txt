@@ -1,0 +1,50 @@
+1.0 - 
+  MOD ADDITIONS TO BASE PACK (version will be latest unless specified)
+  
+  Immersive Railroading - dope trains
+  TrackAPI              - IR library
+  Better With Mods      - Early game mod with some fun water mechanics
+  Better With Addons    - Compt between BWM and other mods
+  SGExtraParts          - Adds mod compt between SG and other mods
+  Silent Gems           - Alternative to TiCon
+  SilentLib             - Lib for SG
+  GeographicCraft       - Allows biome banding. Useful with the current ore-gen config
+  Schematica            - Allows for past creations to be pasted in
+  FTB Guides            - Used to give the player a way to view ore-gen and other server based information
+                        - !!! settings have changed since I last used this mod. Currently attempting to find out more info as to how it works.
+  Tech Reborn           - Makes IC2 more fun to play with (I know poeple hate IC2 but I intend to play with it at least)
+  RebornCore            - Lib for Tech Reborn
+  WaterControlExtreme   - Disables infinite water in anywhere thats not an ocean/river biome
+  InitialInventory      - Lets you add items to a players spawn
+  
+  CONFIG CHANGES
+  
+  cofh        - deleted default ore configs -> using custom settings
+                ore gen is in a motherlode style which is also biome dependant -> This only affect the OW. dims like the deep dark do not care about the boime dependance
+                
+  silent gems - disabled flower gen -> too many flowers
+                disabled ore gen -> cofh is ore gen
+                disabled book on spawn -> akashic tome is taking care of this
+
+  BWM         - disabled BWM book on spawn -> akashic tome is taking care of this
+                disabled hardcore -> some settings are interesting but I wouldn't enable with a discussion first as they are heavy handed
+                
+  Tinkers Con - disabled ore gen -> cofh is ore gen
+                changed ores smelted to ingots in smeltry ratio from 2.0 to 1.0 -> OP as fuck. Still viable as a early game furnace
+                
+  TechReborn  - disabled ore gen -> cofh is ore gen
+  
+  Thaumcraft  - disabled amber/cinnbar gen -> cofh is ore gen
+  
+  FTB Guides  - added tab for ore generation information
+        
+  SCRIPTS     - General: added items to spawn inventory -> torch, stone aiot, and akashic tome
+              - Mek: made atomic dissasembler more expensive
+              - Mek: made digital miner more expensive
+
+ 
+  
+  TO-DO
+  
+
+  in game manual for ore-gen -> current ftbguides is broken
