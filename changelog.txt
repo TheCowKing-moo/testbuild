@@ -1,5 +1,6 @@
 1.0 - 
   MOD ADDITIONS TO BASE PACK
+  !!!NOTE!!! If any of the mods below are not added to base pack the ore-gen config may need tweaking
   
   Immersive Railroading - dope trains
   TrackAPI              - IR library
