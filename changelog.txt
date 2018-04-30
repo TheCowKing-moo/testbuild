@@ -17,7 +17,9 @@
   WaterControlExtreme   - Disables infinite water in anywhere thats not an ocean/river biome
   InitialInventory      - Lets you add items to a players spawn
   Magneticraft          - Fun mod with some cool stuffs
-  
+  modelloader           - Magneticraft library
+  Deep Resonance        - Dunno why this wasnt included. Mod is fairly power balanced already
+  elecore               - Deep Res library
   CONFIG CHANGES
   
   cofh        - deleted default ore configs -> using custom settings
@@ -40,6 +42,9 @@
   FTB Guides  - added tab for ore generation information
   
   Magneticraft- disabled ore gen
+  
+  Deep Res    - disabled ore gen
+
         
   SCRIPTS     - General: added items to spawn inventory -> torch, stone aiot, and akashic tome
               - Mek: made atomic dissasembler more expensive
